@@ -1,2 +1,0 @@
-# omarGaribov
-JavaSpring Bootcamp homeworks
