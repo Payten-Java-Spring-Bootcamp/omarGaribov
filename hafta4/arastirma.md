@@ -30,6 +30,7 @@ Agile Test Çeyrekleri, farklı QA testlerini anlamak için görsel bir araçtı
 ![Ekran görüntüsü 2022-01-30 235052](https://user-images.githubusercontent.com/53883971/151717332-0ce6852b-5212-4998-892d-1072d74ba0d3.png)
 
 <br />
+
 Q1
 - Uygulamanızın geliştirilmesi boyunca birim ve bileşen testleri yapılır. Geliştiricilerinize, genellikle tekrarlanan, otomatikleştirilmiş süreçler aracılığıyla sürekli olarak kodlarının kalitesi hakkında geri bildirim sağlarlar.
 
